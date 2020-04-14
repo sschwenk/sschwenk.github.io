@@ -18,5 +18,6 @@ hervorragend, so dass ich zukünftig alle Informationen versioniert hier ablegen
 ### Logic
 
 ## Anleitungen
+### Headrush Looper Board
 
 ## Tipps & Tricks
