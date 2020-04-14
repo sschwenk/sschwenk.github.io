@@ -14,10 +14,12 @@ Die Lösung dafür ist, dass ich meine Lösungswege in versionierbarer Dokumenta
 hervorragend, so dass ich zukünftig alle Informationen versioniert hier ablegen werde.
 
 ## Themen
-[### Live-Looping](./livelooping.md)
-### Logic
+[Live-Looping](./livelooping.md)
+
+Logic
 
 ## Anleitungen
+
 ### Headrush Looper Board
 
 ## Tipps & Tricks
