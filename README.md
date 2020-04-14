@@ -2,5 +2,6 @@
 
 My personal stuff on GitHub divided into several sections:
 
-[Software Developemt](./software.md)
+Software Development
+
 [Music](./music.md)
