@@ -15,7 +15,6 @@ hervorragend, so dass ich zukünftig alle Informationen versioniert hier ablegen
 
 ## Themen
 [Live-Looping](./livelooping.md)
-
 Logic
 
 ## Anleitungen
