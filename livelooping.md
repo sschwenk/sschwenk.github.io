@@ -37,3 +37,16 @@ Als ich mich 2008 für den Kauf eines Loopers entschieden hatte, gab es damals n
 
 Es wird eine ganze Menge von einem Musiker abverlangt. Hier zwei Beispiele, die veranschaulichen, was man mit Live-Looping alles bewerkstelligen kann:
 
+<a href="https://youtu.be/QJvTT-x8ZAI" target="_blank"><img src="http://img.youtube.com/vi/QJvTT-x8ZAI/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="https://youtu.be/nUx9tNzpbbs" target="_blank"><img src="http://img.youtube.com/vi/nUx9tNzpbbs/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="https://youtu.be/paYvTKVTzU8" target="_blank"><img src="http://img.youtube.com/vi/paYvTKVTzU8/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="https://youtu.be/oHLLXL5x7ng" target="_blank"><img src="http://img.youtube.com/vi/oHLLXL5x7ng/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Dabei wird einem dann auch sofort klar, dass man als Musiker höchste Konzentration benötigt, um überhaupt etwas Brachbares auf die Beine zu stellen. Meine ersten Versuche waren dann auch sehr einfach gehalten und reichen nicht mal ansatzweise an die oben genannten Beispiele heran:
+
+<a href="https://youtu.be/xE8i7v7LndM" target="_blank"><img src="http://img.youtube.com/vi/xE8i7v7LndM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="https://youtu.be/I1J1RTaflek" target="_blank"><img src="http://img.youtube.com/vi/I1J1RTaflek/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
