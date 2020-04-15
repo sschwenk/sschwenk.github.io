@@ -35,7 +35,7 @@ Da jeder andere Kriterien für sich hat, kann ich an dieser Stelle nur meine eig
 ## Erste eigene Versuche
 Als ich mich 2008 für den Kauf eines Loopers entschieden hatte, gab es damals nur das Boos RC-50, das meine Anforderungen (und darüber hinaus zahlreiche weitere) abdeckte. Hinzu kam noch ein entsprechender Koffer, um damit auf Tour gehen zu können und los ging's - oder eben auch nicht. Denn Live-Looping ist schwer zu lernen - zumindest habe ich das damals so empfunden.
 
-Es wird eine ganze Menge von einem Musiker abverlangt. Hier zwei Beispiele, die veranschaulichen, was man mit Live-Looping alles bewerkstelligen kann:
+Es wird eine ganze Menge von einem Musiker abverlangt. Hier vier Beispiele, die veranschaulichen, was man mit Live-Looping alles bewerkstelligen kann:
 
 <a href="https://youtu.be/QJvTT-x8ZAI" target="_blank"><img src="http://img.youtube.com/vi/QJvTT-x8ZAI/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
@@ -45,7 +45,7 @@ Es wird eine ganze Menge von einem Musiker abverlangt. Hier zwei Beispiele, die 
 
 <a href="https://youtu.be/oHLLXL5x7ng" target="_blank"><img src="http://img.youtube.com/vi/oHLLXL5x7ng/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-Dabei wird einem dann auch sofort klar, dass man als Musiker höchste Konzentration benötigt, um überhaupt etwas Brachbares auf die Beine zu stellen. Meine ersten Versuche waren dann auch sehr einfach gehalten und reichen nicht mal ansatzweise an die oben genannten Beispiele heran:
+Dabei wird einem dann auch sofort klar, dass man als Musiker höchste Konzentration benötigt, um überhaupt etwas Brauchbares auf die Beine zu stellen. Meine ersten Versuche waren dann auch sehr einfach gehalten und reichen nicht mal ansatzweise an die oben genannten Beispiele heran:
 
 <a href="https://youtu.be/xE8i7v7LndM" target="_blank"><img src="http://img.youtube.com/vi/xE8i7v7LndM/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
