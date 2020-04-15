@@ -1,4 +1,5 @@
 # Live-Looping
+###### Zuletzt aktualisiert am 15.04.2020
 Ich beschäftige ich mit diesem Thema schon seit einigen Jahren. Ursprünglich wurde ich über [Matt Stevens](http://mattstevensguitar.com/) auf das Thema Live-Looping im Jahr 2007 aufmerksam. Damals war ich zunächst sehr von den Möglichkeiten beeindruckt, da ich zu diesem Zeitpunkt in keiner Band spielte. Live-Looping war für mich **die** Möglichkeit, um ein eigenes Programm auf die Beine zu stellen und damit auf die Bühne zu gehen.
 
 Alles leichter gesagt, als getan, denn der Teufel steckt wie so häufig im Detail. Das erste größere Hindernis für mich war damals das fehlende Equipment. Es gabe erste einfache Looper wobei Matt Stevens einen [Line6 DL4](https://de.line6.com/stompbox-modelers/) nutzte. Allerdings konnte das Geräte nur wenige Sekunden aufnehmen, die dann mit der Loop-Funktion wiedergegeben werden konnten. Das schien mir zu wenig, da ich abwechslungsreiche Musik spielen wollte. Matt hat hier allerdings einen sehr guten Job gemacht und einige sehr eingängliche und wenig monoton wirkende Songs aufgenommen.
